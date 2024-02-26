@@ -1,1 +1,3 @@
+Pareto, RFM and Cohorts (Retention) analysis
 
+This repository features an implementation of Pareto, RFM, and Cohorts (Retention) analyses. The Pareto analysis aids in optimizing resource allocation, strategic planning, managing product portfolios, and gaining insights into the distinctive contributions of specific categories to overall revenue. RFM analysis is instrumental in shaping customer retention strategies, optimizing revenue, making cost-effective decisions, and facilitating segment-specific marketing. Cohort (Retention) analysis provides valuable insights into cohort-specific trends, identifies critical points, and strategically pinpoints optimal timing for interventions 🦄
