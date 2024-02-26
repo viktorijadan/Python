@@ -1,3 +1,4 @@
 # Python
 
-This repository contains my Python codes.
+This repository comprises my collection of Python code implementations 🦄
+
